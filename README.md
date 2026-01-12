@@ -1,5 +1,3 @@
-# task-manager-frontend
-
 # Task Manager Frontend
 
 A simple frontend Task Manager application built using HTML.  
